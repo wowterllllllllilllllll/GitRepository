@@ -1,9 +1,9 @@
-#include <iostream>
+#include <stdio.h>
 
 
 int main()
 {
-    Printf("Hello World!");
+    printf("Hello World!");
     return 0;
 }
 
